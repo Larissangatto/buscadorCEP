@@ -1,0 +1,4 @@
+.venv
+busca-cep
+poetry.lock
+pyproject.toml
